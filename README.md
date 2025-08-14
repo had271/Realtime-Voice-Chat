@@ -1,4 +1,4 @@
-# RealTime-Chat
+# Realtime-Voice-Chat
 
 This project is a Realtime Voice Chat system using Python.  
 It allows a user to:  
