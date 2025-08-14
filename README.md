@@ -45,6 +45,10 @@ pip install soundfile
 ```bash
 pip install playsound
 ```
+- **Arabic text shaping and bidirectional display**
+```bash
+pip install arabic_reshaper python-bidi
+```
 ## Environment Setup
 
 1. Create a `.env` file in the project folder.  
