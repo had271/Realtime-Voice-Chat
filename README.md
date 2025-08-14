@@ -13,7 +13,7 @@ It allows a user to:
 - Python 3.9 - 3.12  
 - Packages:
 You can download and install all required packages with the following command:  
-Record audio from microphone
+- **Record audio from microphone**
 ```bash
 pip install sounddevice
 ```
